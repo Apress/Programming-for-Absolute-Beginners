@@ -1,0 +1,14 @@
+p {
+	font-size: 10pt;
+}
+
+p[class=style1] {
+	color: red;
+	background-color: blue;
+}
+
+p[class=style2] {
+	font-size: 12pt;
+	color: green;
+	background-color: black;
+}
